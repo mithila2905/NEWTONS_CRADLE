@@ -1,2 +1,1 @@
-# NEWTONS_CRADLE
-proj_27
+# NC27
